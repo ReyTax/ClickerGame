@@ -19,6 +19,8 @@ Project setup:
  4. Set single startup project to ClickerGame and apply
  5. Build FileManager and StringValidation to generate dlls
 
+**ClickyGrinder** is an incremental game in which the gameplay consists of the player performing simple actions such as clicking on the screen repeatedly to gain points. The points can be spent in upgrades that will make you gain points faster. The are two types of upgrades: upgrades that increase your gains while clicking and upgrades that increase your gains passively. 
+
 # Screenshots:
 **LoginScreen**  
 ![Login screen](https://i.imgur.com/CjmecEH.png)  
