@@ -1,4 +1,4 @@
-**The purpose of this work is educational only
+**The purpose of this work is educational only**
 
 # ClickerGame
 
