@@ -1,4 +1,7 @@
+**The purpose of this work is educational only
+
 # ClickerGame
+
 **ClickerGame** is a project in Visual Studio using .NET Framework 4.7.2 . The point of the project was to create a game named **ClickyGrinder** that implements different features like : 
 
  1. MVC Design Pattern
